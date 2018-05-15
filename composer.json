@@ -1,7 +1,7 @@
 {
     "name": "bearcodi/placeholder-image",
     "description": "Simple PHP component to generate placeholder images",
-    "type": "composer-package",
+    "type": "library",
     "license": "MIT",
     "authors": [
         {
