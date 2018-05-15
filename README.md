@@ -7,7 +7,7 @@ Simple PHP component to generate placeholder images. Can be used to generate pla
 
 Example usage of generating a placeholder image:
 
-````php
+```php
 use Bearcodi\Utilities\Image\Placeholder;
 $image = Placeholder::make('Sample Text', 400, 300);
 ```
